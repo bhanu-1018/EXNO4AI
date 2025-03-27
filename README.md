@@ -1,6 +1,6 @@
 # EXNO4AI
 Implementation of Alpha Beta Pruning 
-### DATE:09.10.24                                                                 
+### DATE:13/02/2025                                                                
 ### REGISTER NUMBER : 2122221060180
 ### AIM: 
 Write a Alpha beta pruning algorithm to find the optimal value of MAX Player from the given graph.
